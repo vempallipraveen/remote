@@ -1,0 +1,12 @@
+package com.vee.sb;
+
+import org.springframework.web.*;
+
+public class HomeController {
+	
+	@ResquestMapping("/hello")
+	public String hello() {
+		return "First Spring Program. Say Hello!";
+	}
+
+}

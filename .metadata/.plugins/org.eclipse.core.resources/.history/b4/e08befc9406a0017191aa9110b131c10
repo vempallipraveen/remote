@@ -1,0 +1,13 @@
+package com.vee.sb;
+
+import org.springframework.web.*;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+public class HomeController {
+	
+	@RequestMapping("/hello")
+	public String hello() {
+		return "First Spring Program. Say Hello!";
+	}
+
+}
