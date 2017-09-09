@@ -1,0 +1,8 @@
+http://www.java2blog.com/2016/02/spring-java-based-configuration-example.html
+
+http://www.java2blog.com/2016/01/how-to-create-simple-java-project-using.html
+
+http://www.java2blog.com/2015/09/how-to-install-maven-pluginm2eclipse-in.html
+
+https://www.youtube.com/watch?v=ZxLaEovze3M&index=5&list=PLC97BDEFDCDD169D7
+
